@@ -1,0 +1,1052 @@
+hash-format = "sha256"
+
+[[files]]
+file = "bin/version.json"
+hash = "b903c59747458b317c0ded99575d6db854d0ff09c8c680cb20f1328de9b47670"
+
+[[files]]
+file = "config/Adorn.json5"
+hash = "52f67089ec40164b55dc8bae8abade5a8bb44e07eb1fbafd26fdc4019607e841"
+
+[[files]]
+file = "config/byg/biomepedia.json5"
+hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
+
+[[files]]
+file = "config/customsplashscreen.json5"
+hash = "e3cf453f02f84fe451e4d79684d20e5f3e8d9944593fbc7ebb62e9c40a70d805"
+
+[[files]]
+file = "config/customsplashscreen/background.jpg"
+hash = "1f2f9083e336a23f21776e31abc666a0c1fe867529522015fdf6f578b3e38dfc"
+
+[[files]]
+file = "config/customsplashscreen/hexmc.png"
+hash = "1067701209c439e82ddf4e2bd413f7198aacb3cb3016e924ada41550914a5745"
+
+[[files]]
+file = "config/debugify.json"
+hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
+
+[[files]]
+file = "config/getoffmylawn.json"
+hash = "1536537c2c7cd2887cce4f5d418c072ff9257d0699a0d73d6719b1de73b0063d"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "53fe3c11144cb497904b288d72ec5ff52214e582e42bf494cf39b31fc9e0428f"
+
+[[files]]
+file = "config/quickconnectbutton.json5"
+hash = "c5996c3bca7821beb08ca2ff0a434d46529ed461cc9a461be3c39823ded6fd35"
+
+[[files]]
+file = "config/things.json5"
+hash = "1038869327d77f107c527999c48acabf86cd2588b415e5e45bc30701f9f03d75"
+
+[[files]]
+file = "config/yosbr/config/bobby.conf"
+hash = "7668a9ed5d5d6878dd49d552396b7aab57e5345d031a0f776b90f9a477a06195"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "8f5c4bac35757d624f296419976aff70a4a5b95c4430aff06048013ea7dd25c4"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "18620ae9a07d266e519b66e9c3f256168831ab90c8ce9380569a3ca7f479f90c"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+
+[[files]]
+file = "config/yosbr/config/lambdabettergrass.toml"
+hash = "18c500a4c01dcd846c8dca192a77f9c0326b89204c99983401a6cded9e98ef9c"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "372402613fb32a482a6590f3a6da1346d5d8ff97774f4c69eb4ec34fa7be1fa5"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
+
+[[files]]
+file = "config/yosbr/kubejs/server_scripts/custom.js"
+hash = "1c707d2edf2d355175b0d83ae6cc17b75bb194b939b3932b2cebe7ef250e9427"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "b622ee9ad7e5e133cba2bc752281f341899cdc3cf4f07844b6d89889b0ffeb75"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/hyper_roly_poly.png"
+hash = "a28ee45d323ce73d2d86b0b90ac2129a6f7e6185b850894fc1804b39abe942cc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/hyper_roly_poly.png.mcmeta"
+hash = "d947e6371a5bb46ab733722fac72f7aae2832fc94ecc8a1ab55c3e1471cbf4f4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/roly_poly.png"
+hash = "a28ee45d323ce73d2d86b0b90ac2129a6f7e6185b850894fc1804b39abe942cc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/roly_poly.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "b7c2b11a018ed4c5b6e45a0942663748628028ec7ddd3dcf7e3c65d861c73ef0"
+
+[[files]]
+file = "kubejs/server_scripts/script.js"
+hash = "f435fa5523eecd2e4fd538ca812b5814cd8148a551bc6974674cd31da5d25c25"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "55c7f26bed7e6e67ec34953585d197fbcf9a40b0c64b1177b6cbb1b692851fd3"
+
+[[files]]
+file = "mods/addadd.pw.toml"
+hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "5e5cd9403870724d633b352ebec5a0440eb1d5369feec48378b844e2179c4000"
+metafile = true
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "28f3a330db6ec489843622d1c0eeb6a40a92f2892073934e8ed3f974276f3519"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "09bbf0d8be8c1d9073081ce4e2659589fb37475bb71af07cf3e3d4f578adebe0"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "86fddf37d21255242d6b36388910ca86296a2b2db683fc4508fc6ea3f986e4d9"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "948fa54d546c6f20ac495deeb8467aabec310961acaac5928c229dde95a7a600"
+metafile = true
+
+[[files]]
+file = "mods/armorpoints.pw.toml"
+hash = "41c60940cb3a59d557ef78d289566dda5f2bf8ce69af50f6a1cacc34e18b567b"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/banhammer.pw.toml"
+hash = "e73406fe1252ab486b90665439db7de2ec5a2bcebc1c23d48091ea7fb3e35c68"
+metafile = true
+
+[[files]]
+file = "mods/basic-shields-fabric.pw.toml"
+hash = "8979c102241e3de5365b478762d1600ca6fb5249775e6c9fa3519e0b2045830d"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
+metafile = true
+
+[[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "199dcfab78b4278c0c51c64fab21c282b162cdd6d9d44071ad3e616a0a38b2da"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "82ff0810d046264c1ad91743def3db244e1fda82bfd807e57e92ee4461fc3634"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "f726e4e0b1481c9fcebabb78da8c50382ee7add661b38f820fb5b6ab6f5c0d0b"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components.pw.toml"
+hash = "fb92a9f098e0b0ad7ce8af2d9f046ad8f3ae7179df3a7029423f9ecc27f375aa"
+metafile = true
+
+[[files]]
+file = "mods/charm.pw.toml"
+hash = "865086a8214362cee9671154ed0cdc7eb22cc06d1a95b848bf991007d09ba0e1"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
+metafile = true
+
+[[files]]
+file = "mods/community-chest.pw.toml"
+hash = "43fcf8bd32b2949802ba3c711fa9988f9bb4150e7d00b02ed332ca19ce085776"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "996cb235d164070b7e2bc0ab6484b04b7cf4fd15e24510346ec860fb52e9ff4f"
+metafile = true
+
+[[files]]
+file = "mods/createplus.pw.toml"
+hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
+metafile = true
+
+[[files]]
+file = "mods/creeper-spores.pw.toml"
+hash = "adcc315808f530d4c1ad9bdb4536677905d0beecb9cd0520e5ba4f7c8298fd8d"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
+metafile = true
+
+[[files]]
+file = "mods/custom-splash-screen.pw.toml"
+hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
+metafile = true
+
+[[files]]
+file = "mods/dcch.pw.toml"
+hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+metafile = true
+
+[[files]]
+file = "mods/disenchanter.pw.toml"
+hash = "8f100e5959aaeb745edb9f27e5a4d6d858e530480c79c1befe3c1ff49ebe05e2"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "686e7208edaa2689b41630cc78ea777911f07ef98a8fe33ddafecf8b5b61a8ed"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "3e270c8f639faff030ec23ef25850608e5ac43fbe627c724c41e4ec1c19d3137"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "3ad28215bdf1399ee45f665a2134072e6482171d59c8fd1ceefc89855301a83d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "23c115248dccd10489e91888cabadbce8b7a7a65ef1f0d62b8fbe5d47d262432"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "571251a12f49f5542775ca3ced589e23ad622fc2b93ec3cecf1a7eb77f33eb2f"
+metafile = true
+
+[[files]]
+file = "mods/fabricshieldlib.pw.toml"
+hash = "3fa20c7a4f4b3ed95d5959a2864a8a2b269e26cb33884c1acc297d72acbc2fca"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "a06eaf4f5ba7f6645244b83d21f81099137d81ffe0bc69323f5660e32b2f5ee8"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "62ce8fd227fa2a8d9d03dbb3d86f27c0cd65f906ab0312860c93d4195c4036c6"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "1c664e463bb0e1c63285620539622a2253cdcb35d1042514add8ce040c6c3cd2"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "82bb46b33410b83af78f1ff08ae79ff4506767a07f7c0b09c53370f28052a02b"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "d15760f67ce06f4f75c8c14f20cb188ea2a3601df5c1cb10e64f2c014028cc30"
+metafile = true
+
+[[files]]
+file = "mods/guarding.pw.toml"
+hash = "93045a2a147e70ae59f00696531fe9ee384aaba88f5239a7b4752e9b5dcb2319"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "0f20d858aded3960a10e15c1db293c72d95d61f530389c3e738c30cef1e0c49d"
+metafile = true
+
+[[files]]
+file = "mods/horseinboat.pw.toml"
+hash = "cab55b9d6a2888c9de60ffe4e425c2f0fe0333e2b7806f0f3bbc8e05e9068d4b"
+metafile = true
+
+[[files]]
+file = "mods/icy-incitement.pw.toml"
+hash = "473efcd8f932c19de373116114f8ce9f84bacb987991989d7e841642d253daae"
+metafile = true
+
+[[files]]
+file = "mods/illager-expansion-forked.pw.toml"
+hash = "6e874df82174870ed74174f1ff5ed7a983de2a3caf370bf2cda579798c1a10a9"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e41e3b7118779aea796a5fe970b089d027bd768bd9cf7a1d3632c4f0d411405f"
+metafile = true
+
+[[files]]
+file = "mods/inv-view.pw.toml"
+hash = "90baef0e09b9bf0f951ef46723c9368dde94227a8d0be8cca5bef5616f421a64"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "5845b04d5b7eec20cb4f89a24e0bc9e514f2aee8a546c56aa58edc948c3e6ac5"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "56e3f31a4b60597aba78b84fd66a39d13280d3a125f6a9bf7dc65ed0f9af009c"
+metafile = true
+
+[[files]]
+file = "mods/kiln.pw.toml"
+hash = "2bd4443325ef2df10ef19de54454c29e15176a875ec361220762ba3bdbc81112"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "89d1ab67ea9a02351fc246debf02e608d758153c659d07e7d49281dcd804a0e6"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "080d4789738ae0015c0a1fc76ffc3f6487f55dc5877b3de1c3b458b544efe362"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "158c40f09b2ed4fe14f5f2925751796fe11f6baee7e1ac7f35931ad831631a3d"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "2c410266c2e5763c5ebaaedbe68519920e857c8d6edac44aadefa2b407d016f5"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/lovely_snails.pw.toml"
+hash = "cea7e57f790cde53db4a76005bca2079df37fcb43df16961fbc6b2e116100b9c"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "5631427ed0e9792e60562d47f8b9ca574c3f7b6787c7e888f6bf203583a73936"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
+hash = "e5e9697602c898198e19b6066305491623972d3c93855d5c0b56551a2c40039b"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "b0fba268ee559c26795ca6773311a2a2d0cee2e6a8f41a2faff7c1eb756fb26b"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "419272c0c60923836c5aeca75c79e4b197039539983ddc8321bc80b016dd717b"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.pw.toml"
+hash = "2d28482058d2d26425ce201ff66684944cbf3bac2841cf4fbc9157fe51830fbe"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "3da1c6f350407d59ac89fdaf76f28b53b96ab40267edd3f750d9f4c482327d5d"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ce135ca85c8b940d23d2970ae1032a2a8f572a6b9f98d251ef671c5186a57ff8"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "82a6f6e97d141ba3ac11f27931600a2e14bf94907cf88fc26c63c1f078413858"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "997e86885cc636951fa8fa352997faf7f72464aeec93f9c8880be543e95c5292"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
+metafile = true
+
+[[files]]
+file = "mods/pleasant-pigeons.pw.toml"
+hash = "f2b63713fa862d60012d62fe4a37e9098379ff55b78080e7709b2435963112e7"
+metafile = true
+
+[[files]]
+file = "mods/plushie.pw.toml"
+hash = "6974e3d3b42a84f3723fc3b65af43bb3bf93c900051a1f91c22c3c143c1fc684"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "950325646bc5effa2a8cba1abdd4b1c7fd27677c11f64a96fbaea776de2da01a"
+metafile = true
+
+[[files]]
+file = "mods/quickconnectbutton.pw.toml"
+hash = "14056e199239c88e18eb249e0133fd0788fd0e5e86eb12e2d4ea519b25ce10d4"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "f93edd1b50de2b484004d37b61e524d1e5d21d30ffb771f9fbeb62439d131e77"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "ea040903baea09ac2e701fad52596b2d59d065da0b2d16e0af8490229656cd33"
+metafile = true
+
+[[files]]
+file = "mods/right-click-harvest.pw.toml"
+hash = "76790dadcda0b1802e3d49b1cdde75c756fba55b54c16a0806a855d1240fd4db"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "bb344eedb570edf7cdc083b7bf466176fc2d91ded1b420c7832670c9c0805977"
+metafile = true
+
+[[files]]
+file = "mods/scout.pw.toml"
+hash = "e2bf895b0a61b54f8fd792dc2775216639a50437ade28de6741dea1735f97f18"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "66b2f6695b820be80a343e4c4b8678e95a380512453be03471db87f6a75d0c4a"
+metafile = true
+
+[[files]]
+file = "mods/snowpig-fabric.pw.toml"
+hash = "75ec3aa60f0ae0fa192a41dbc532c52ce7e345694040881a149cae3ef06fde5b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "f8585df7b27e6890f700639ab02856a58e7b89eb0986dc5eee981fc1f627f3cc"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "8464443ae7468ca1116996954a9132330f8984e1da7089190d6d9cbbddfd836b"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "a2545ca26dcfa338761c72d2cafc001c1b27f27829cbef1e63bf16649e9a4f2d"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "0f554506f1631e8079ddacfbf2ec0e677cc0660e1fbe9df9a4280837fc60b106"
+metafile = true
+
+[[files]]
+file = "mods/things.pw.toml"
+hash = "6ee2b19242cfa341ac4377d048890e4abed6b4ac5861199f1f1d78c2a082e1b7"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "ab69426b7e810d0b1812aaaf886ee2034cc8e4dd1b5f8cb000166cdbe54d6cc1"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "7949ca44b40c64a5ddcd1f1ca33b89ed8af392ca1f468c74411a8d3fe260baf6"
+metafile = true
+
+[[files]]
+file = "mods/villager-hats.pw.toml"
+hash = "597bca85ce7c67ac4c3224c7d182432986260ad245247eb2896e5082b6b29985"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/book.json"
+hash = "787355976205324f083a78ab956dbf223aefda0c7dd98f7dd76f77313d382860"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/alloy_forging.json"
+hash = "bd571a070f28fe65de7d4933e5e930e761494a3ddc88e2da7f65d960c5a05923"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/boss_fights.json"
+hash = "9655333bcb3e5c48100b80eff712969d44bdef4bffca3077713ca1866a5de7bf"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/create.json"
+hash = "fe3bac428a76bb598b45c9580cbf7d50dadfc39b0e184cad700090d98b9bedad"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/decorating.json"
+hash = "0ba9e1d35e2ed29c3ef7c50a9179b6215d9948f625f95b15f97bfd870fe602a2"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/lexica_botania.json"
+hash = "57272fa1f24367548265bff2b718194e89837558edb34082a45a0a6e0f1ad02e"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/satchels.json"
+hash = "897f02bfb540ae2de830b034960d4b4c5a19206d8e960d49858904f37cdc1b5c"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/things.json"
+hash = "ae41280e132e3a34abfadd5dc511f0264b816e7b297ffc389fba0be5db366274"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/things/blocks.json"
+hash = "d805066000454e48dbb3c320ae9156ec1f0e22169480dab724bbbfeb30dd6dd4"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/things/items.json"
+hash = "352c1bc4fe68b1e8f53a5acf26a0c37075288fa74148c2cfd72d487992a67d87"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/things/trinkets.json"
+hash = "1f3b50ac0c2e846b6cea1090f68a1e2c4d7fa1826e631a61410ee4f3613cfa0e"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/categories/waystones.json"
+hash = "9b3fe51db9516e30b9aa7cf31534f96dbf0099dcedcfee405d4916581777de92"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/alloy_forge.json"
+hash = "3bd3ed8e2282d7da6a4c42c3d805a5b35375fee20de99816504f6d04bee2ce5e"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/alloys.json"
+hash = "0eb3e162afd67f2ca591f915e1292c311ff43d9d2c958325c0a617c4ffd9638e"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/alloy_forging/forge_controller.json"
+hash = "64ab26640a7fd90d420990d825ffeb74abd076dd0151d6a4346a578f3fde3bb1"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/end.json"
+hash = "589bbc091e2e8acaced8ee74ca254367d15a6dbd6b130fd49ecc76d3c326c4cb"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/ice.json"
+hash = "9283b4d9e6ca5c928540a2589e0fef237931f5ea31c89ad2ef583de8dbd155ab"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/mansion.json"
+hash = "3d32f3c7957837802b92c57c39642b52347fa6781ee86c3bd7a788d8f2944191"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/mystery.json"
+hash = "28193d58365cbe4537b20b89f33c65766cad0049210f39e3550ae045c90e3a72"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/nether.json"
+hash = "55db53ccc6e92893c44a7bcec4bb2e33fcececa4dec5cd4be8655b939287c503"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/resummoning.json"
+hash = "27ce08babab5397be6bbac945f6d39c3604f5ee38c4839f9d6281f7a03d28753"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/boss_fights/underground.json"
+hash = "400d8f8e2af36a3d0e298285db1f4a9ecfe8ba798a92f3126069f5ff5b0f0af7"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/create/introduction.json"
+hash = "57b94ebddf669a264b3cb2f73730fa4174d009ddf95a310d892a086cd32d9acc"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/brewers.json"
+hash = "f6d513865033969607d065a455dac3e861e024cc4ed2f6d044186ee44f267b8e"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/chairs.json"
+hash = "d71a5e35b0aac2e2e73c84235dbf3dd6605aea1d07678bd8d8889b5ef29c93b0"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/chimenys.json"
+hash = "cdd98549bfa3c21b32ee8d8d58315dd12cd75e6b1307cf74cf7f84f094eefe55"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/drawers.json"
+hash = "42bcfe1a8d6c77b500e781dd74a26ed0e2120f29725563ef8843fbcd0ad626d7"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/kitchen_blocks.json"
+hash = "14f0a55342f6c075dd22294eacf626243a91e6e581de5356cc26e093b3986410"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/kitchen_sinks.json"
+hash = "7af56dd20f471a4a5774c57cff37e127d3e2f8a1218a066b186d027fc83e3780"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/platforms.json"
+hash = "f4f8af6e43325d1cee3db51ceb518200b0fcf55ba5a9917b71235e7a3dbf41c9"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/posts.json"
+hash = "7e5b9b0247b5d0de2381787f1b3778375e74336a445d2b85c5802c55e9f6510c"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/prismarine_chimneys.json"
+hash = "32d85fcd457c87b75269e18363ec8f8481234f09788c943539148cac59be7a29"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/shelves.json"
+hash = "de1cca744a184db6dab016b122bf3526e1476520d2ee7bc25d10d6bd825a2889"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/sofas.json"
+hash = "e0b5cbdefbf04803cee91090eca5fad6fbf3d9ecde79abccab4b60d14fb7df8c"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/steps.json"
+hash = "52bf0456e93e6999f305e292dc3784ca7a29b79c01113662c6c221ee6569f4aa"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/decorating/tables.json"
+hash = "125bb3fae5c35eaff9e85923e310263b47761221da3fb102db325290aa44db7d"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/lexicon/crafting.json"
+hash = "d6f00cf5665d0973c7260b60ea6b5546f661a6483d7c07134bb87cae0a8dc2b0"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/lexicon/upgrading.json"
+hash = "cb889e4b44548b13f61e6e445ce03bd51b654429a35a9c6e6818847b13555ba1"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/satchels/pouch.json"
+hash = "e7eb35c2a3872560348423cc1df1b2cd7316847bbb2f7ffcf9ae6e999d2a66b6"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/satchels/satchel.json"
+hash = "700615a181fc10b8271544da2dc8f842748f517b0e50c370a5bf625c3c6d4361"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/blocks/diamond_pressure_plate.json"
+hash = "ff7dfd50e39dc78c33435222475d262de68d300f5404f7f786481ff4a9b5688a"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/blocks/gleaming_ore.json"
+hash = "2bedb72a2cffe463ef24e947087159bfd4b1b2062230feb820be188778a68a3a"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/blocks/glowstone_fixtures.json"
+hash = "e5b446804aeb39b02ea01ed624e3fdf34ccdb1eb6d4d9b1150fced1a322de200"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/apples.json"
+hash = "dec491a1a70a2f63eb05d8f8890e15719ef59f96adc734037cd3bdc787a09dd2"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/bater_wucket.json"
+hash = "db13400a285af4a61eb1731db7930e661916e977c6d4a7034db937ef5b012f5e"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/container_key.json"
+hash = "34b0ce42ef96f3d3f559314b954fa5a8d46cb3e29253e0c1e7b2db5dcba14212"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/displacement_tome.json"
+hash = "44242f0fc351eb7e559f98feb3525e2c1879a17217571621c6e32cbb378703a5"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/gleaming_materials.json"
+hash = "7366faefd268bb235d355a68d7cf05e232feb056fbbe98be70a93d8805f2a44f"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/hardening_catalyst.json"
+hash = "cad195099733b3c5012969395bb5d70c74923397955afcad6616f06e520443fb"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/infernal_scepter.json"
+hash = "90ddba4a9faf27efa8dd3747bc689d3278be1da0cb0cb8c7598d3612828abfb7"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/item_magnet.json"
+hash = "f5d71f2abb44e247c15b383dd643118977fd62f238d9fff738840bc39bc2c3d3"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/recall_potion.json"
+hash = "8249d8e78997a5dd50157d6d01ed7a03e5c697966c83142b5cdaec9086485d8b"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/items/retribution.json"
+hash = "26018c2632d47fa5274ec05eaa4a9fb8a17a11247e63369e1a57294fc8624842"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/arm_extender.json"
+hash = "59ba0f35afa81b84dddad15eab06d9c9bcfa9abcb45ee4a160ac8ebf4103c166"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/broken_watch.json"
+hash = "502d005507247591c362bb08c590da56387f47d664015e707a1204ff10f9ae96"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/ender_pouch.json"
+hash = "87bb7d4edd5beae70ed2e6e800309390775cc0bb210a5c09d951e3aaae0fda9c"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/hades_crystal.json"
+hash = "099e51eff723d524ed752f8fba764f9f965d839f9fd249bd4e26082534c49f0a"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/luck_of_the_irish.json"
+hash = "4bad9d559d2fae1e63ee548294552c69fa5e2bdcc0797c91818dc12acddba7b7"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/mining_glove.json"
+hash = "85846ac467d42aa33f47a95b4a728846f42fec10f6f8930f252975d3d036e37a"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/monocle.json"
+hash = "3292ea6abbe98fe9500887751ff056d472d8df6b6741fc41aad895278080827b"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/mossy_necklace.json"
+hash = "a466aae6d3d2c16b92f2baa2aef946281a4b9120392271254dfe2bfc91b6d8e3"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/placebo.json"
+hash = "82b598137ec3a94f457cfde04d8d7555fae631334e356dc05bdf5341d29a7756"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/rabbit_foot_charm.json"
+hash = "290e6c280caf687b2c39adc39cd9b384aba45fb9d62b90c97d822ae9d207785f"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/riot_gauntlet.json"
+hash = "462558f95d962b8cca5af5a4bd0e57f435cb56a05e233a3c8d01469891bc0d8c"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/shock_absorber.json"
+hash = "e7946d81fcaec662582a3c06e5ef2df6c8a0faac98b42f35d0e78b096a532df8"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/socks.json"
+hash = "c4b2c1ff1a38bb61572b90866c0fef25ec4e65af6fa52ea24256d911e1a7c32d"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/things/trinkets/wax_gland.json"
+hash = "6e4a7ba495b82b15e4b6817629c2be7db0a83814c97bf93cb33f930688b6f096"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/abyss_watcher.json"
+hash = "092b7d887e2fee8280cc3aa5ab55a513c4361ea94fd50fe105c87dbf4b888756"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/empty_waystone_scroll.json"
+hash = "3081224c2e60c2bfd44cd9f548ed5da0a0e4d02b0042083982f88ef1575911d5"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/local_void.json"
+hash = "7680a479ab23d6abdb5679f78aeef87999b6cd5fb16c84f477763791cb434704"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/pocket_wormhole.json"
+hash = "abd547017b92d00a6e04e999ad30bb012d2a1703b2b40d8b5add08186ac64542"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/void_totem.json"
+hash = "a3b04f797824f8692ce22e6f1c4d4a9779f9d5c4eb82d429e7965f8e78961906"
+
+[[files]]
+file = "patchouli_books/hexmc_handbook/en_us/entries/waystones/waystones.json"
+hash = "24627b044b7a3d69edf965f82cdcbbdec7316a2de08bda0d1cfa893c2f5c79bb"
+
+[[files]]
+file = "patchouli_books/hexmc_server/book.json"
+hash = "96f57d26efca4e4c61ee71be40504d5040f0857b26570d8d2636a9845a591dcd"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/categories/server.json"
+hash = "53922a8b8dfb0243437b05e7a308b533a1290d72998aab3bcbc06ba4badfcdd7"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/approved_mods.json"
+hash = "bab3e1dff70125ad9baf97083fd1ae7de4131b12ece99eca3dd5f78939faf33f"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/claiming.json"
+hash = "43241e263374bad429573c16f2bbd88fe8ecdc4f1064341da166130fce468c44"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/community_chests.json"
+hash = "23a1667411cddd54697c2ec500c7a1d19ae09abd880ad508a8df814f61449cc5"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/emotes.json"
+hash = "7ce6ae621ab0df0f780a89165c3141b94e880fefdd9747f93b3aa44b6dfecb51"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/global_waystones.json"
+hash = "6e141524e5b7b11c40fe51aabb7b2325fc923e3903c42226fb380dfd5b0a9210"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/rules.json"
+hash = "84e45d584f3f4bda18ef631d6bacf677251331bb2f7491c28f5a83cb667d9357"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/server_book.json"
+hash = "c4dc41f08cf9a7be3cecba41b6d0c67436a9383a0e08522a337c837d5394c537"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/shops.json"
+hash = "a58c5f1e2cf96aea24c95164b47f10ee8ba73d8b803ac0311e3a9670d0d9cb3f"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/support.json"
+hash = "745fa64a6c177eca23fe553f62a09e86d705ffa9a08a0ff568c4fa754482a487"
+
+[[files]]
+file = "patchouli_books/hexmc_server/en_us/entries/voice_chat.json"
+hash = "610902b0b1a37f79e98b531d13a68e39fc45623e60c0b925d1fa2416b812fe43"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc/waystones/waystone.png"
+hash = "b09095913d7359594178a35fa1f9cef011c0151a69ce8655a5e2779e8317e05a"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc/waystones/waystone_global.png"
+hash = "70c3c55e43a042c3475acfd4848781c4f78cf64b14c65d042c030655ed66fb27"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc/waystones/waystone_rename.png"
+hash = "e4bd2cbad246c34311b01b968d044c6c83b1600f4ea888c91daf2059990cfe37"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/dancing.png"
+hash = "eeb10f74063e1dc52cadbed147440988ee90ba49e6a5e7ba3121169cc504de47"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/wheel-emotes.png"
+hash = "8d0526f8e0b20d68eb19e3057f930c6cf617544e9774435d2f4a6717b929f73e"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/emotes/wheel-settings.png"
+hash = "5cab426a926ed8aff1d89a7110466e2b07d130d75555f625460ca2ca7177f819"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page1-settings.png"
+hash = "99cc79537425cded36680d782548e56b14fc939cdaf40dcf26708a16574ec0a1"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page2-settings.png"
+hash = "ee4c04309c5c467fd5226c749c58b4c71ff7e5e5e7258349b9dda7c413b5ac4f"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/hexmc/patchouli/hexmc_server/voice_chat/page3-settings.png"
+hash = "ecd301b1feb217f1db934463972dc8fa72822bde434c12c95a870e97e32c2e82"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/edition.png"
+hash = "8764d8139a12a89251a819570ef88eb77e126d99ad382c7e47e22e64afe49895"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "efebd78af2fae8960fd4f738269f36911b85a66f4ddf599f76750d27087c74c0"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/pack.mcmeta"
+hash = "eedf6e36acb9beafe084ade09cbb6b24488f6f5da60d05deaf01d00a44ddda68"
+
+[[files]]
+file = "resourcepacks/HexMC Resources/pack.png"
+hash = "6bbbf97665c9675edd2c8c156b779d08568b1ad09cff354c4bc3f70431ff8706"
